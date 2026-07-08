@@ -31,3 +31,7 @@ before switching devices.
 ## Development
 
 Plain HTML/CSS/JS in one file. Edit `tracker.html`, reload, done.
+
+## Goals
+- Move browser hosting to persistent DB, probably self hosted
+- Some UI changes, better tracking of weight loss goals, perhaps a dashboard to view historical data
