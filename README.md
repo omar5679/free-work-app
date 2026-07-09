@@ -35,3 +35,4 @@ Plain HTML/CSS/JS in one file. Edit `tracker.html`, reload, done.
 ## Goals
 - Move browser hosting to persistent DB, probably self hosted
 - Some UI changes, better tracking of weight loss goals, perhaps a dashboard to view historical data
+- Make it customizable, user provides input variables (weight, goals, exercise preferences) then outputs a customized workout program.
